@@ -1,0 +1,8 @@
+FileUploaderNotificationManager FileUploaderNotificationManager-resetToDefaultNotificationPreferences 
+Tue Feb 09 05:11:31 EST 2021 DATA FileUploaderNotificationManager uploadingStatus: Done 
+Tue Feb 09 05:11:31 EST 2021 DATA FileUploaderNotificationManager upload isOngoing: false 
+Tue Feb 09 05:11:31 EST 2021 DATA FileUploaderNotificationManager upload notification is up to date 
+Tue Feb 09 05:11:31 EST 2021 V ManualUploadService Upload Service Created. 
+Tue Feb 09 05:11:31 EST 2021 DATA ManualUploadService Starting service in the foreground onStartCommand 
+Tue Feb 09 05:11:31 EST 2021 DATA ManualUploadService Successfully started service in the foreground onStartCommand 
+Tue Feb 09 05:11:31 EST 2021 DATA FileUploaderNotificationManager FileUploaderNoti
